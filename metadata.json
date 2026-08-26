@@ -1,0 +1,6 @@
+{
+  "name": "Omtecho Studio",
+  "description": "Official platform for Omtecho — Service & Product Studio. We design and develop modern websites, web applications and digital products for businesses and startups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
